@@ -1,8 +1,0 @@
-[project]
-  subdomain = "groq-toq-staging-zyynhgw2"
-
-[agent]
-  id = "CA_e9xk3KuxU3RG"
-  cpu = "1"
-  replicas = 1
-  max_replicas = 10
